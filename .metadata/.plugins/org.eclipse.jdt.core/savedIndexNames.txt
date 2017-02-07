@@ -1,0 +1,2 @@
+INDEX VERSION 1.127+C:\Users\Hong\Documents\LeetCodeSolutions\.metadata\.plugins\org.eclipse.jdt.core
+98190812.index
